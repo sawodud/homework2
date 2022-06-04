@@ -1,4 +1,4 @@
-# Top, Ps, Jobs, Kill 명령어, Vim에디터에서 매크로 사용방법 정리
+# Top, Ps, Jobs, Kill 명령어, Vim에디터에서 매크로 사용방법
 컴퓨터공학과 20205102 김재영
 ---
 ## Top
