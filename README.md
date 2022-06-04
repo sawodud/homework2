@@ -158,9 +158,9 @@ $ ps [option]
  
 
 ex)
-$ ps –ef : 모든 프로세스를 풀 포맷으로 출력
+$ ps –ef : 모든 프로세스를 풀 포맷으로 출력  
 ![ps 사용법 예시1](https://user-images.githubusercontent.com/106536020/172019335-56154c9d-82f5-47ff-8ab0-5931bacfabfb.PNG)
-$ ps –ef | grep ‘프로세스명’ : ‘프로세스명’의 프로세스 구동 확인
+$ ps –ef | grep ‘프로세스명’ : ‘프로세스명’의 프로세스 구동 확인  
 ![ps 사용법 예시2](https://user-images.githubusercontent.com/106536020/172019343-676f5fab-1bcf-4624-917f-ca5fa2db194a.PNG)
 
 
